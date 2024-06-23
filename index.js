@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["JOGANDO __COMPLEXO RP__","OUVINDO CPX MUSIC"];
 
 
 let currentIndex = 0;
